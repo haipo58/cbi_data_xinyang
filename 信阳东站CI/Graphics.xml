@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CbiGraphicsModel>
+  <Section RotationAngle="0" STopLeft="50.00,486.60" SNamePos="7.25,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="9980" CbiID="0" ID="0" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="50.00,400.00" SNamePos="7.25,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="9983" CbiID="0" ID="1" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="95.00,400.00" SNamePos="7.25,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="9991" CbiID="0" ID="2" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="140.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10111" CbiID="0" ID="3" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="95.00,486.60" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10118" CbiID="0" ID="4" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="185.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10131" CbiID="0" ID="5" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="140.00,486.60" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10138" CbiID="0" ID="6" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="230.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10151" CbiID="0" ID="7" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="185.00,486.60" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10158" CbiID="0" ID="8" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="275.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10171" CbiID="0" ID="9" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="230.00,486.60" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10178" CbiID="0" ID="10" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="320.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10191" CbiID="0" ID="11" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="275.00,486.60" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10198" CbiID="0" ID="12" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="365.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10209" CbiID="0" ID="13" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="320.00,486.60" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10216" CbiID="0" ID="14" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="365.00,486.60" SNamePos="3.44,-20.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10236" CbiID="0" ID="15" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1516.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10277" CbiID="0" ID="16" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1471.00,486.61" SNamePos="3.44,-20.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10278" CbiID="0" ID="17" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1516.00,486.61" SNamePos="3.44,-20.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10288" CbiID="0" ID="18" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1561.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10297" CbiID="0" ID="19" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="410.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10299" CbiID="0" ID="20" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1606.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10315" CbiID="0" ID="21" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1561.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10318" CbiID="0" ID="22" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1651.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10335" CbiID="0" ID="23" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1606.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10338" CbiID="0" ID="24" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1696.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10353" CbiID="0" ID="25" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1651.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10354" CbiID="0" ID="26" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1741.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10371" CbiID="0" ID="27" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1696.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10372" CbiID="0" ID="28" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1786.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10391" CbiID="0" ID="29" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1741.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10392" CbiID="0" ID="30" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1831.00,400.00" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10411" CbiID="0" ID="31" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1786.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10412" CbiID="0" ID="32" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1831.00,486.61" SNamePos="3.44,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="10432" CbiID="0" ID="33" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="565.00,746.41" SNamePos="19.34,5.00">
+    <Line SPt0="0,0" SPt1="90,0" />
+    <Model Name="21/W1G" CbiID="0" ID="34" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="235.00,833.01" SNamePos="31.40,5.00">
+    <Line SPt0="0,0" SPt1="90,0" />
+    <Model Name="D1G" CbiID="0" ID="35" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="235.00,746.41" SNamePos="31.40,5.00">
+    <Line SPt0="0,0" SPt1="90,0" />
+    <Model Name="D3G" CbiID="0" ID="36" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="235.00,659.81" SNamePos="31.40,5.00">
+    <Line SPt0="0,0" SPt1="90,0" />
+    <Model Name="D5G" CbiID="0" ID="37" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="815.00,313.40" SNamePos="114.36,5.00">
+    <Line SPt0="0,0" SPt1="246,0.004919243112453842" />
+    <Model Name="3G" CbiID="0" ID="38" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="851.00,573.21" SNamePos="88.86,5.00">
+    <Line SPt0="0,0" SPt1="195,0" />
+    <Model Name="4G" CbiID="0" ID="39" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="815.00,226.79" SNamePos="114.36,5.00">
+    <Line SPt0="0,0" SPt1="246,0.004919243112453842" />
+    <Model Name="5G" CbiID="0" ID="40" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="855.00,659.81" SNamePos="61.85,5.00">
+    <Line SPt0="0,0" SPt1="141,0.0025403784439959054" />
+    <Model Name="6G" CbiID="0" ID="41" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="855.00,746.41" SNamePos="61.85,5.01">
+    <Line SPt0="0,0" SPt1="141,0.012378864668562528" />
+    <Model Name="8G" CbiID="0" ID="42" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="725.00,400.00" SNamePos="201.26,5.00">
+    <Line SPt0="0,0" SPt1="416,0" />
+    <Model Name="IG" CbiID="0" ID="43" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="725.00,486.60" SNamePos="199.35,5.00">
+    <Line SPt0="0,0" SPt1="416,0" />
+    <Model Name="IIG" CbiID="0" ID="44" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="410.00,486.60" SNamePos="6.30,-20.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="S1LQ" CbiID="0" ID="45" Dir="None" Dis="0" />
+  </Section>
+  <Section RotationAngle="0" STopLeft="1471.00,400.00" SNamePos="5.86,5.00">
+    <Line SPt0="0,0" SPt1="45,0" />
+    <Model Name="X1LQ" CbiID="0" ID="46" Dir="None" Dis="0" />
+  </Section>
+  <SwitchSection RotationAngle="0" STopLeft="525.00,400.00" SNamePos="-20.22,-22.16" IsUpSwitch="false">
+    <SwitchSectionModel Name="1-5DG" CbiID="0" ID="47" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="655.00,285.00" SNamePos="-20.22,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="7-9DG" CbiID="0" ID="48" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="530.00,486.60" SNamePos="-24.03,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="3-11DG" CbiID="0" ID="49" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1280.00,400.00" SNamePos="-24.03,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="6-14DG" CbiID="0" ID="50" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1246.00,486.61" SNamePos="-24.03,-22.16" IsUpSwitch="false">
+    <SwitchSectionModel Name="8-10DG" CbiID="0" ID="51" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1130.00,573.21" SNamePos="-27.84,-22.16" IsUpSwitch="false">
+    <SwitchSectionModel Name="12-20DG" CbiID="0" ID="52" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="721.00,573.21" SNamePos="-27.84,-22.16" IsUpSwitch="false">
+    <SwitchSectionModel Name="15-19DG" CbiID="0" ID="53" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1171.00,313.40" SNamePos="-27.84,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="16-18DG" CbiID="0" ID="54" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1421.00,486.61" SNamePos="-13.60,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="2DG" CbiID="0" ID="55" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1396.00,400.00" SNamePos="-13.60,-22.16" IsUpSwitch="false">
+    <SwitchSectionModel Name="4DG" CbiID="0" ID="56" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="614.00,573.21" SNamePos="-17.41,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="13DG" CbiID="0" ID="57" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="789.00,746.41" SNamePos="-17.41,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="17DG" CbiID="0" ID="58" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="705.00,746.41" SNamePos="-17.41,-22.16" IsUpSwitch="false">
+    <SwitchSectionModel Name="21DG" CbiID="0" ID="59" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="1056.00,629.81" SNamePos="-17.41,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="22DG" CbiID="0" ID="60" Dir="None" Dis="0" />
+  </SwitchSection>
+  <SwitchSection RotationAngle="0" STopLeft="475.00,746.41" SNamePos="-33.45,5.00" IsUpSwitch="true">
+    <SwitchSectionModel Name="W1-W2DG" CbiID="0" ID="61" Dir="None" Dis="0" />
+  </SwitchSection>
+  <Railswitch RotationAngle="0" STopLeft="455.00,400.00" SNamePos="17.38,5.00">
+    <Model Name="1" CbiID="0" ID="0" Section="1-5DG" Double="3" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="50,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,13.856406460551018" SPt1="50,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="100,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1421.00,486.61" SNamePos="25.00,-22.00">
+    <Model Name="2" CbiID="0" ID="1" Section="2DG" Double="4" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="0,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,-13.856406460551018" SPt1="0,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="-50,0" />
+    <ReverseNail SPt0="25,0" SPt1="17,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="505.00,486.60" SNamePos="25.00,-22.00">
+    <Model Name="3" CbiID="0" ID="2" Section="3-11DG" Double="1" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="-50,-0.0025403784437685317" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,-13.856406460551018" SPt1="0,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="9,0" />
+    <ReverseNail SPt0="25,0" SPt1="17,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1371.00,400.00" SNamePos="17.38,5.00">
+    <Model Name="4" CbiID="0" ID="3" Section="4DG" Double="2" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="100,-0.004919243112453842" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,13.856406460551018" SPt1="50,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="41,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="555.00,400.00" SNamePos="17.38,-22.00">
+    <Model Name="5" CbiID="0" ID="4" Section="1-5DG" Double="7" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="170,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,-13.856406460551018" SPt1="50,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="41,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,-13.856406460551" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1321.00,400.00" SNamePos="25.00,5.00">
+    <Model Name="6" CbiID="0" ID="5" Section="6-14DG" Double="8" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="0,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,13.856406460551018" SPt1="0,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="9,0" />
+    <ReverseNail SPt0="25,0" SPt1="17,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="605.00,313.40" SNamePos="25.00,5.00">
+    <Model Name="7" CbiID="0" ID="6" Section="7-9DG" Double="5" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="-60,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,13.856406460551018" SPt1="0,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="9,0" />
+    <ReverseNail SPt0="25,0" SPt1="17,13.856406460551" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1271.00,486.61" SNamePos="17.38,-22.00">
+    <Model Name="8" CbiID="0" ID="7" Section="8-10DG" Double="6" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="50,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,-13.856406460551018" SPt1="50,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="100,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="655.00,313.40" SNamePos="42.38,-22.00">
+    <Model Name="9" CbiID="0" ID="8" Section="7-9DG" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="66,0" SPt1="160,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="58,-13.856406460551018" SPt1="100,-86.60254037844383" />
+      <Line SPt0="100,-86.60999999999999" SPt1="160,-86.60999999999999" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="66,0" />
+    <ReverseNail SPt0="50,0" SPt1="58,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1221.00,486.61" SNamePos="25.00,5.00">
+    <Model Name="10" CbiID="0" ID="9" Section="8-10DG" Double="12" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="0,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,13.856406460551018" SPt1="0,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="-80,-0.004919243112453842" />
+    <ReverseNail SPt0="25,0" SPt1="17,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="555.00,486.60" SNamePos="9.75,5.00">
+    <Model Name="11" CbiID="0" ID="10" Section="3-11DG" Double="13" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="50,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,13.856406460551018" SPt1="50,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="170,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1171.00,573.21" SNamePos="9.75,-22.00">
+    <Model Name="12" CbiID="0" ID="11" Section="12-20DG" Double="10" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="50,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,-13.856406460551018" SPt1="50,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="110,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="605.00,573.21" SNamePos="25.00,-22.00">
+    <Model Name="13" CbiID="0" ID="12" Section="13DG" Double="11" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="-51,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,-13.856406460551018" SPt1="0,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="9,0" />
+    <ReverseNail SPt0="25,0" SPt1="17,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1271.00,400.00" SNamePos="25.00,-22.00">
+    <Model Name="14" CbiID="0" ID="13" Section="6-14DG" Double="16" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="0,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,-13.856406460551018" SPt1="0,-43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="-130,-0.004919243112453842" />
+    <ReverseNail SPt0="25,0" SPt1="17,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="655.00,573.21" SNamePos="34.75,5.00">
+    <Model Name="15" CbiID="0" ID="14" Section="15-19DG" Double="17" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="66,0" SPt1="70,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="58,13.856406460551018" SPt1="100,86.6" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="66,0" />
+    <ReverseNail SPt0="50,0" SPt1="58,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1221.00,313.40" SNamePos="9.75,5.00">
+    <Model Name="16" CbiID="0" ID="15" Section="16-18DG" Double="14" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="41,0" SPt1="50,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="33,13.856406460551018" SPt1="50,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="110,0" />
+    <ReverseNail SPt0="25,0" SPt1="33,13.856406460551" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="755.00,746.41" SNamePos="50.00,-22.00">
+    <Model Name="17" CbiID="0" ID="16" Section="17DG" Double="15" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="100,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="34,0" SPt1="0,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="42,-13.856406460551018" SPt1="0,-86.60254037844383" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="34,0" />
+    <ReverseNail SPt0="50,0" SPt1="42,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1121.00,313.40" SNamePos="50.00,-22.00">
+    <Model Name="18" CbiID="0" ID="17" Section="16-18DG" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="100,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="34,0" SPt1="-60,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="42,-13.856406460551018" SPt1="0,-86.60254037844383" />
+      <Line SPt0="-60,-86.59999999999997" SPt1="0,-86.59999999999997" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="34,0" />
+    <ReverseNail SPt0="50,0" SPt1="42,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="721.00,573.21" SNamePos="34.75,5.00">
+    <Model Name="19" CbiID="0" ID="18" Section="15-19DG" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="66,0" SPt1="130,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="58,13.856406460551018" SPt1="100,86.60254037844383" />
+      <Line SPt0="100,86.59762113533134" SPt1="134,86.59999999999991" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="66,0" />
+    <ReverseNail SPt0="50,0" SPt1="58,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="1121.00,573.21" SNamePos="25.00,5.00">
+    <Model Name="20" CbiID="0" ID="19" Section="12-20DG" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="50,0" SPt1="25,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="9,0" SPt1="-75,-0.004919243112453842" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="17,13.856406460551018" SPt1="0,43.30127018922192" />
+    </ReverseLines>
+    <NormalNail SPt0="25,0" SPt1="9,0" />
+    <ReverseNail SPt0="25,0" SPt1="17,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="655.00,746.41" SNamePos="34.75,5.00">
+    <Model Name="21" CbiID="0" ID="20" Section="21DG" NDis="0" RDis="0" IsLeftOpen="false" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="0,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="66,0" SPt1="100,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="58,13.856406460551018" SPt1="100,86.60254037844383" />
+      <Line SPt0="100,86.60000000000002" SPt1="140,86.60000000000002" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="66,0" />
+    <ReverseNail SPt0="50,0" SPt1="58,13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="-60" STopLeft="1071.00,703.11" SNamePos="50.00,-22.00">
+    <Model Name="22" CbiID="0" ID="21" Section="22DG" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="100,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="34,0" SPt1="-49.999999999999886,0" />
+      <Line SPt0="-75.00756023790404,-43.296905283832814" SPt1="-50.00330004840134,0.0019052838330253508" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="42,-13.856406460551018" SPt1="0,-86.60254037844383" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="34,0" />
+    <ReverseNail SPt0="50,0" SPt1="42,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="465.00,746.41" SNamePos="50.00,-22.00">
+    <Model Name="W1" CbiID="0" ID="22" Section="W1-W2DG" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="true" />
+    <SectionLines>
+      <Line SPt0="100,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="34,0" SPt1="0,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="42,-13.856406460551018" SPt1="0,-86.60254037844383" />
+      <Line SPt0="-140,-86.59745962155625" SPt1="0,-86.60000000000002" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="34,0" />
+    <ReverseNail SPt0="50,0" SPt1="42,-13.856406460551018" />
+  </Railswitch>
+  <Railswitch RotationAngle="0" STopLeft="365.00,746.41" SNamePos="50.00,5.00">
+    <Model Name="W2" CbiID="0" ID="23" Section="W1-W2DG" NDis="0" RDis="0" IsLeftOpen="true" IsUpOpen="false" />
+    <SectionLines>
+      <Line SPt0="100,0" SPt1="50,0" />
+    </SectionLines>
+    <NormalLines>
+      <Line SPt0="34,0" SPt1="-40,0" />
+    </NormalLines>
+    <ReverseLines>
+      <Line SPt0="42,13.856406460551018" SPt1="0,86.60254037844383" />
+      <Line SPt0="-40,86.60000000000002" SPt1="0,86.60000000000002" />
+    </ReverseLines>
+    <NormalNail SPt0="50,0" SPt1="34,0" />
+    <ReverseNail SPt0="50,0" SPt1="42,13.856406460551018" />
+  </Railswitch>
+  <Signal RotationAngle="0" STopLeft="325.00,833.01" SNamePos="-8.76,-40.16" IsLeftSide="false" DefaultColor="Blue">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF808080" />
+    <Model Name="D1" CbiID="0" ID="0" Type="L2_红绿" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="325.00,746.41" SNamePos="-8.76,-40.16" IsLeftSide="false" DefaultColor="Blue">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF808080" />
+    <Model Name="D3" CbiID="0" ID="1" Type="L2_红绿" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="325.00,659.81" SNamePos="-8.76,-40.16" IsLeftSide="false" DefaultColor="Blue">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF808080" />
+    <Model Name="D5" CbiID="0" ID="2" Type="L2_红绿" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="565.00,746.41" SNamePos="-8.76,23.00" IsLeftSide="true" DefaultColor="Blue">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF808080" />
+    <Model Name="D7" CbiID="0" ID="3" Type="L2_红绿" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="655.00,746.41" SNamePos="-8.76,-40.16" IsLeftSide="false" DefaultColor="Blue">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF808080" />
+    <Model Name="D9" CbiID="0" ID="4" Type="L2_红绿" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1471.00,486.61" SNamePos="-3.75,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="57,5,16,16" SBrush="#FF000080" />
+    <Model Name="S" CbiID="0" ID="5" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="815.00,313.40" SNamePos="-7.56,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="S3" CbiID="0" ID="6" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="851.00,573.21" SNamePos="-7.56,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Line SPt0="0,13" SPt1="-8,13" />
+    <Circle SCenter="-17,13" Radio="8" />
+    <Circle SCenter="-33,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="S4" CbiID="0" ID="7" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="815.00,226.79" SNamePos="-7.56,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="S5" CbiID="0" ID="8" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="855.00,659.81" SNamePos="-7.56,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="S6" CbiID="0" ID="9" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="855.00,746.41" SNamePos="-7.56,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="S8" CbiID="0" ID="10" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1471.00,400.00" SNamePos="-10.58,-38.16" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="-9,-13" Radio="8" />
+    <Circle SCenter="-25,-13" Radio="8" />
+    <Rectangle SRect="5,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="36,-21,16,16" SBrush="#FF000080" />
+    <Model Name="SF" CbiID="0" ID="11" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="725.00,400.00" SNamePos="-5.66,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="SI" CbiID="0" ID="12" Type="L4_引导" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="725.00,486.60" SNamePos="-7.57,23.00" IsLeftSide="true" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="-9,13" Radio="8" />
+    <Circle SCenter="-25,13" Radio="8" />
+    <Rectangle SRect="5,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="26,5,16,16" SBrush="#FF000080" />
+    <Model Name="SII" CbiID="0" ID="13" Type="L7" Dir="DownDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="455.00,400.00" SNamePos="-4.19,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-73,-21,16,16" SBrush="#FF000080" />
+    <Model Name="X" CbiID="0" ID="14" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1061.00,313.40" SNamePos="-8.01,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="X3" CbiID="0" ID="15" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1046.00,573.21" SNamePos="-8.01,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="X4" CbiID="0" ID="16" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1061.00,226.80" SNamePos="-8.01,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="X5" CbiID="0" ID="17" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="996.00,659.81" SNamePos="-8.01,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="X6" CbiID="0" ID="18" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="996.00,746.42" SNamePos="-8.01,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="X8" CbiID="0" ID="19" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="455.00,486.60" SNamePos="-10.58,21.00" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,5" SPt1="0,21" />
+    <Circle SCenter="9,13" Radio="8" />
+    <Circle SCenter="25,13" Radio="8" />
+    <Rectangle SRect="-21,5,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-52,5,16,16" SBrush="#FF000080" />
+    <Model Name="XF" CbiID="0" ID="20" Type="L4_引导" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1141.00,400.00" SNamePos="-6.10,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="XI" CbiID="0" ID="21" Type="L7" Dir="UpDir" Single="false" />
+  </Signal>
+  <Signal RotationAngle="0" STopLeft="1141.00,486.60" SNamePos="-8.01,-40.16" IsLeftSide="false" DefaultColor="Red">
+    <Line SPt0="0,-5" SPt1="0,-21" />
+    <Circle SCenter="9,-13" Radio="8" />
+    <Circle SCenter="25,-13" Radio="8" />
+    <Rectangle SRect="-21,-21,16,16" SBrush="#FF008000" />
+    <Rectangle SRect="-42,-21,16,16" SBrush="#FF000080" />
+    <Model Name="XII" CbiID="0" ID="22" Type="L7" Dir="UpDir" Single="false" />
+  </Signal>
+  <End RotationAngle="0" STopLeft="235.00,746.41">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="-9,-6" />
+    <Line SPt0="0,6" SPt1="-9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="545.00,313.40">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="-9,-6" />
+    <Line SPt0="0,6" SPt1="-9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="554.00,573.21">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="-9,-6" />
+    <Line SPt0="0,6" SPt1="-9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="1331.00,313.40">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="9,-6" />
+    <Line SPt0="0,6" SPt1="9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="235.00,659.81">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="-9,-6" />
+    <Line SPt0="0,6" SPt1="-9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="1281.00,573.21">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="9,-6" />
+    <Line SPt0="0,6" SPt1="9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="795.00,833.01">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="9,-6" />
+    <Line SPt0="0,6" SPt1="9,6" />
+  </End>
+  <End RotationAngle="0" STopLeft="235.00,833.01">
+    <Line SPt0="0,-6" SPt1="0,6" />
+    <Line SPt0="0,-6" SPt1="-9,-6" />
+    <Line SPt0="0,6" SPt1="-9,6" />
+  </End>
+</CbiGraphicsModel>
